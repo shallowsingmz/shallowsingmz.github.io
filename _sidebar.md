@@ -3,12 +3,5 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
-
+* [Happy](./Happy)
+	- [胡闹厨房2](./Happy/胡闹厨房2.md)
